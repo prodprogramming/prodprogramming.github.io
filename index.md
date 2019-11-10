@@ -23,6 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+var f = document.getElementById('');
+
 [Link](url) and ![Image](src)
 ```
 
